@@ -1,3 +1,6 @@
+> ⚠️ **This project is under active development.**  
+> Signalfarm is pre-release. Expect breaking changes and rough edges. Feedback and contributions are welcome.
+
 # Signalfarm
 
 > Grow the signal. Kill the noise.
